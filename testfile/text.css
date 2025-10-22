@@ -1,0 +1,39 @@
+h1{
+    background:linear-gradient(to right,orange,skyblue);
+    color: red;
+}
+.A{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    border-style: solid;
+    border-color: red;
+    border-radius: 5px;
+    padding:10px;
+    border-left-color: black;
+    border-right-color: black;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    margin: 10px;
+}
+.B{
+    background-color: greenyellow;
+    color: black;
+    border-style: groove;
+    margin: 10px;
+}
+.C{
+    background-color: orange;
+    color: black;
+    border-style: dotted;
+    margin: 10px;
+}
+body{
+    background:linear-gradient(skyblue,lightgreen);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

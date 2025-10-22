@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.form{
+    border:7px solid #E6E6E6;
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 465px;
+    height: 400px;
+}
+.form .contact{
+    display: flex;
+    justify-content:center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 25px ;
+    margin-bottom: 25px;
+}
+.fullname{
+    font-size: 8px;
+    margin: 7px;
+    font-weight: 600;
+}
+
+#text{
+ border: none;
+ outline: none;
+ margin-left: 5px;
+ font-size: 11px;
+ background-color: #E6E6E6;
+}
+.form .fname{
+    border: 1px solid #E6E6E6;
+    margin: 0px 30px;
+    border-radius: 5px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E6E6E6;
+}
+.form .femail{
+    border: 1px solid #E6E6E6;
+    margin-left: 30px;
+    margin-top: 7px;
+    border-radius: 5px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E6E6E6;
+    float: left;
+    width: 195px;
+    margin-bottom: 8px;
+}
+.form .fphone{
+    border: 1px solid #E6E6E6;
+    margin-right: 30px;
+    margin-top: 7px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E6E6E6;
+    float: right;
+    width: 195px;
+}
+.form .fneed{
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E6E6E6;
+    clear:  both;
+    margin: 0px 30px;
+}
+.fneed #choose{
+ border: none;
+ outline: none;
+ margin-left: 5px;
+ font-size: 11px;
+ background-color: #E6E6E6;
+ 
+}
+

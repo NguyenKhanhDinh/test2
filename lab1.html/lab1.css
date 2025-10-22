@@ -1,0 +1,24 @@
+#a1{
+    background-color:lightgreen;
+width: 500px;
+height: 100px;
+}
+#a2 {
+    background-color: skyblue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#a3 {
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+}
+
+#a4{
+    background-color: red;
+width: 500x;
+height: 100px;
+}
